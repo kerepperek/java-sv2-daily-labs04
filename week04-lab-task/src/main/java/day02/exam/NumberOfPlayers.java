@@ -9,5 +9,11 @@ public class NumberOfPlayers {
         this.maximumPlayers = maximumPlayers;
     }
 
+    public int getMinimumPlayers() {
+        return minimumPlayers;
+    }
 
+    public int getMaximumPlayers() {
+        return maximumPlayers;
+    }
 }
